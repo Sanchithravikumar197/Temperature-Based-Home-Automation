@@ -1,2 +1,3 @@
-# Temperature-Based-Home-Automation
-This project aims to automate home appliances based on real-time temperature readings for energy efficiency and comfort.
+# Temperature-Based-Home-Automation:
+This system is designed to automatically turn on the fan when the ambient temperature exceeds a predefined threshold, ensuring efficient cooling only when needed. The main goal of this project was to create an energy-efficient solution for temperature regulation using simple electronics and automation techniques. It utilizes a temperature sensor to constantly monitor the surrounding temperature, and based on the readings, it controls the fan operation through a microcontroller. This not only minimizes power consumption but also enhances convenience by eliminating the need for manual control. Through this project, I gained valuable experience in sensor interfacing, microcontroller programming, and real-time system design. It was a great learning journey that strengthened my understanding of embedded systems and automation.
+
