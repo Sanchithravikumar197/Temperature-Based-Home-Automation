@@ -1,0 +1,11 @@
+Component requirement:
+1. Arduino Uno.
+2. LM35.
+3. 12v fan.
+4. 9v Power supply.
+5. TIP41c NPN transistor.
+6. LEDs    x   5.
+7. 220 ohm resistor    x  5. 
+8. 1k ohm resistor.
+9. breadboard.
+10. Jumper wire.
